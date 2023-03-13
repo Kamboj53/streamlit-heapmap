@@ -1,0 +1,4 @@
+streamlit==1.19.0
+pandas==1.5.3
+pandas-stubs==1.5.2.230105
+plotly==5.13.1
